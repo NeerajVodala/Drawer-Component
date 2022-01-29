@@ -15,7 +15,7 @@ body{
 
 .container {
     width: 90%;
-    height: 350px;
+    height: 21rem;
     display: flex;
     border: 1px solid black;
     margin: 2rem;
@@ -30,7 +30,7 @@ body{
 }
 
 .aside--navigation{
-    height: 84%;
+    height: 18.05rem;
     overflow: auto;
 }
 
